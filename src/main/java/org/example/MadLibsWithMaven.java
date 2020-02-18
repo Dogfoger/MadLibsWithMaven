@@ -12,9 +12,11 @@ public class MadLibsWithMaven {
 
         //variables
         String name1 = "Jack";
+        String name1 = "Jill";
         String adjective1 = "happy";
         String adjective2 = "beautiful";
         String adjective3 = "excited";
+        String adjective3 = "angry";
         String verb1 = "dance";
         String noun1 = "people";
         String noun2 = "tobacco";
